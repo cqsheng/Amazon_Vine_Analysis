@@ -12,9 +12,9 @@
 ![](/images/unpaid.png)
 
 ### As can be seen in the pictures above:
-### There were 47 reviews for Vine members, and much more for non members with 8362 reviews.
-### There were 15 5 star reviews for Vine members, and 4332 5 star reviews for non members.
-### There were around 31.9% of 5 star reviews for Vine members, and actually a higher percentage of 51.8% of 5 star reviews for non members.
+*There were 47 reviews for Vine members, and much more for non members with 8362 reviews.
+*There were 15 5 star reviews for Vine members, and 4332 5 star reviews for non members.
+*There were around 31.9% of 5 star reviews for Vine members, and actually a higher percentage of 51.8% of 5 star reviews for non members.
 
 ## Summary
     Although the number of reviews for Vine members isn't alot, some conclusions can still be drawn from this.
